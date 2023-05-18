@@ -37,4 +37,6 @@ And more
 
 <br>
 
-Careated `Promotion` and `Retrenchment` CSVs that have the lists of employees that will get a promotion or will be retrenched
+Careated:
+1. `Promotion` and `Retrenchment` CSVs that have the lists of employees that will get a promotion or will be retrenched
+2. `Severance Benefits` CSV that have the duplicate values from `Promotion` and `Retrenchment` tables
