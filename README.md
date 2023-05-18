@@ -34,5 +34,7 @@ Add conditional columns like :
 - `Career Level` baced on job level *3-5 Senior/0-2 Junior*
 - `Distances Status`baced on distance from home  *<= 5 very close,>=10 close,>=20 far,else very far*
 And more
+
 <br>
+
 Careated `Promotion` and `Retrenchment` CSVs that have the lists of employees that will get a promotion or will be retrenched
