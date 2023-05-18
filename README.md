@@ -46,10 +46,12 @@ Careated:
 <p align="center">
   <img src="https://github.com/Abdelrhman-Sadek/HR-Analysis/blob/main/pics/Emp_insights.png" />
   </p>
+  
 ### Changes
 <p align="center">
   <img src="https://github.com/Abdelrhman-Sadek/HR-Analysis/blob/main/pics/Changes.png" />
   </p>
+  
 ### Work Filled Insights
 <p align="center">
   <img src="https://github.com/Abdelrhman-Sadek/HR-Analysis/blob/main/pics/Dep_insights.png" />
