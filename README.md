@@ -2,7 +2,8 @@
 <p align="center">
   <img src="https://netchex.com/wp-content/uploads/2022/12/HR-Analytics-768x512.png" />
   </p>
-##`Description`
+<br>
+## `Description`
 
 The aim of this project is to analyze and give insights about the employee status such as:
 - Some general information like `How many employees do we have(Males,Females)`,`What is there material status,Educational background`,etc
