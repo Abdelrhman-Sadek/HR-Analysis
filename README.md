@@ -40,3 +40,9 @@ And more
 Careated:
 1. `Promotion` and `Retrenchment` CSVs that have the lists of employees that will get a promotion or will be retrenched
 2. `Severance Benefits` CSV that have the duplicate values from `Promotion` and `Retrenchment` tables
+
+## `Dashboards`
+### `Employee Insights`
+<p align="center">
+  <img src="https://github.com/Abdelrhman-Sadek/HR-Analysis/blob/main/pics/Dep_insights.png" />
+  </p>
