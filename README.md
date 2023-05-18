@@ -14,6 +14,7 @@ The aim of this project is to analyze and give insights about the employee statu
 Also, Performing changes from `Retrenchment`and `Promotions` that the organization wants to perform 
 <br>
 The company wants the do some `Retrenchmens`and `Promotions` based on:
+<br>
 - employees that haven't been promoted 5 years or more get a **Promotion**
 - employees that spent over 18 years with the company will be **Retrenched** 
 - employees that satisfy both condetion will get **Severance Benefits** duo to there services 
