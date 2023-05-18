@@ -12,6 +12,7 @@ The aim of this project is to analyze and give insights about the employee statu
 - % Employee career levels the company has determined based on their job levels
 - Their job satisfaction level working with the company
 - % of employees that take over time shifts
+- Age range for every job role
 Also, Performing changes from `Retrenchment`and `Promotions` that the organization wants to perform 
 
 
